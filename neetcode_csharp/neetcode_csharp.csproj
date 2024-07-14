@@ -1,0 +1,30 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <OutputType>Exe</OutputType>
+        <TargetFramework>net8.0</TargetFramework>
+        <ImplicitUsings>enable</ImplicitUsings>
+        <Nullable>enable</Nullable>
+    </PropertyGroup>
+
+    <ItemGroup>
+      <Folder Include="advanced_graphs\" />
+      <Folder Include="backtracking\" />
+      <Folder Include="binary_search\" />
+      <Folder Include="bit_manipulation\" />
+      <Folder Include="graphs\" />
+      <Folder Include="greedy\" />
+      <Folder Include="heap_and_priority_queue\" />
+      <Folder Include="intervals\" />
+      <Folder Include="linked_list\" />
+      <Folder Include="math_and_geometry\" />
+      <Folder Include="one_d_dynamic_programming\" />
+      <Folder Include="sliding_window\" />
+      <Folder Include="stack\" />
+      <Folder Include="trees\" />
+      <Folder Include="tries\" />
+      <Folder Include="two_d_dynamic_programming\" />
+      <Folder Include="two_pointers\" />
+    </ItemGroup>
+
+</Project>
